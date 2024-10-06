@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vishall-mahadevan-0b29042a0/](https://www.linkedin.com/in/vishall-mahadevan-0b29042a0/)
 
-- 📫 Contact me **vishalljr11@gmail.com** **vishall_22007347@utp.edu.my**
+- 📫 Contact me **vishalljr11@gmail.com**    **vishall_22007347@utp.edu.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
