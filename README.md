@@ -1,4 +1,4 @@
-<h1 align="center">Vishall Mahadevan</h1>
+<h1 align="center">Vishall</h1>
 <h3 align="center">Computer Engineering Student in Universiti Teknologi Petronas</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vishall-mahadevan-0b29042a0/](https://www.linkedin.com/in/vishall-mahadevan-0b29042a0/)
